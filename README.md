@@ -6,7 +6,7 @@ This open-source project utilizes open-source AutoML and state-of-art packages t
 
 #### Topic Modelling
 
-- [LDA using Gensim, TextBlob, spacy](https://nbviewer.jupyter.org/github/SumaiaParveen/Natural-Language-Processing/blob/main/Topic%20Modelling/topic-modelling-pyldavis-textblob-gensim.ipynb)
+- [LDA using Gensim, TextBlob, spaCy](https://nbviewer.jupyter.org/github/SumaiaParveen/Natural-Language-Processing/blob/main/Topic%20Modelling/topic-modelling-pyldavis-textblob-gensim.ipynb)
 - [Topic Modelling for Text Classification: Regular vs PyCaret](https://nbviewer.jupyter.org/github/SumaiaParveen/Natural-Language-Processing/blob/main/Topic%20Modelling/topic-modelling-for-text-classification.ipynb)
 
 #### Unsupervised Keyword Extraction
