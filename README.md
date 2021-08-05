@@ -16,4 +16,4 @@ This open-source project utilizes open-source AutoML and state-of-art packages t
 
 #### Sentiment Analysis
 
-- [Rule Based: TextBlob, Vader, SentiWordNet](https://github.com/SumaiaParveen/Natural-Language-Processing/blob/main/Sentiment%20Analysis/sentiment-analysis-rule-based.ipynb)
+- [Rule Based: TextBlob, Vader, SentiWordNet](https://nbviewer.jupyter.org/github/SumaiaParveen/Natural-Language-Processing/blob/main/Sentiment%20Analysis/sentiment-analysis-rule-based.ipynb)
