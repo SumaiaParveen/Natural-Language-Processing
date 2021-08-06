@@ -17,3 +17,8 @@ This open-source project utilizes open-source AutoML and state-of-art packages t
 #### Sentiment Analysis
 
 - [Rule Based: TextBlob, Vader, SentiWordNet](https://nbviewer.jupyter.org/github/SumaiaParveen/Natural-Language-Processing/blob/main/Sentiment%20Analysis/sentiment-analysis-rule-based.ipynb)
+
+#### Text Summarization
+
+- [spaCy](https://github.com/SumaiaParveen/Natural-Language-Processing/blob/main/Text%20Summarization/Extractive/flant-text-summarization-spacy.ipynb)
+- [Sumy: LSA, Luhn, KL-Sum](https://github.com/SumaiaParveen/Natural-Language-Processing/blob/main/Text%20Summarization/Extractive/flant-text-summarization-sumy.ipynb)
